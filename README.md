@@ -1,5 +1,7 @@
 # Rock-Paper-Scissors
 
+To test the program, download the files and run the index
+
 <img src="rps.png" alt="Rock paper scissors game">
 
 ## The Project
